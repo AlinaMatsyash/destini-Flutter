@@ -1,17 +1,9 @@
-# destiniflutter
+# destini_Flutter
 
 A new Flutter application.
 
-## Getting Started
+https://user-images.githubusercontent.com/40697299/126871841-3904ca1f-dbae-4fd7-94bd-f702978519ba.mov
 
-This project is a starting point for a Flutter application.
+![Screenshot_1627137277](https://user-images.githubusercontent.com/40697299/126871884-16d1694b-11ae-42f0-8e2d-3d92afd52d0e.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# destini-Flutter
+![Screenshot_1627137299](https://user-images.githubusercontent.com/40697299/126871891-4c8787ed-39d5-4a6c-b859-9d52700c52e9.png)
